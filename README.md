@@ -26,6 +26,7 @@
 | Guide | Description | Difficulty |
 |-------|-------------|------------|
 | **[Codex Integration](./hermes/codex-integration.md)** | Native Codex CLI setup & troubleshooting | Intermediate |
+| **[xAI Grok OAuth Tools](./hermes/grok-xai-oauth-tools.md)** | SuperGrok OAuth, X Search, Grok Imagine video/image, and xAI TTS setup | Intermediate |
 | **[Setup & Configuration](./hermes/setup.md)** | Complete installation guide | Beginner |
 | **[Tools Comparison](./hermes/tools-comparison.md)** | Runtime differences & selection | Advanced |
 
