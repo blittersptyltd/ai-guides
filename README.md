@@ -48,6 +48,11 @@
 | **[Setup Scripts](./tools/scripts/)** | Automated environment setup | Development |
 | **[Validation Tools](./tools/validation/)** | Integration testing utilities | QA/Testing |
 
+### 🧠 AI Skills
+| Skill | Description | Difficulty |
+|-------|-------------|------------|
+| **[Hermes Memory Architecture](./Skills/hermes-memory-architecture.md)** | Three-tier memory setup with `session_search`, durable synthesis, compact memory, and dream cycles | Advanced |
+
 ---
 
 ## 🎯 Real-World Focus
