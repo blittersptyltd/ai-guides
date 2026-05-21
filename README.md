@@ -52,6 +52,7 @@
 | Skill | Description | Difficulty |
 |-------|-------------|------------|
 | **[Hermes Memory Architecture](./Skills/hermes-memory-architecture.md)** | Three-tier memory setup with `session_search`, durable synthesis, compact memory, and dream cycles | Advanced |
+| **[YouTube Transcript Extraction](./Skills/youtube-transcript-extraction.md)** | Extract, validate, timestamp, chunk, and transform YouTube transcripts into useful content | Beginner |
 
 ---
 
