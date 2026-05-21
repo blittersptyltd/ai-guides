@@ -2,7 +2,7 @@
 name: hermes-memory-architecture
 description: Audit and improve Hermes memory across session recall, compact memory, structured facts, durable notes, and dream-cycle cron.
 version: 1.1.0
-author: Hermes Agent / Steve
+author: Brad Down | Hermes | Steve | GPT 5.5
 license: MIT
 metadata:
   hermes:
